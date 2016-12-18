@@ -1,9 +1,5 @@
 # 简介
 
-## wordpress
-
-后台基于 wordpress 开源项目扩展
-
 ## 说明
 
 1. 本说明书均基于 <http://llqjy.theone.io/> 创建, 后续需改真实后台请注意域名
